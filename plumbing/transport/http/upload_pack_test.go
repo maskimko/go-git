@@ -6,10 +6,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/go-git/go-git/v5/plumbing"
-	"github.com/go-git/go-git/v5/plumbing/protocol/packp"
-	"github.com/go-git/go-git/v5/plumbing/transport"
-	"github.com/go-git/go-git/v5/plumbing/transport/test"
+	"github.com/maskimko/go-git/v5/plumbing"
+	"github.com/maskimko/go-git/v5/plumbing/protocol/packp"
+	"github.com/maskimko/go-git/v5/plumbing/transport"
+	"github.com/maskimko/go-git/v5/plumbing/transport/test"
 
 	. "gopkg.in/check.v1"
 	"github.com/go-git/go-git-fixtures/v4"

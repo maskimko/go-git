@@ -3,9 +3,9 @@ package server_test
 import (
 	"context"
 
-	"github.com/go-git/go-git/v5/plumbing"
-	"github.com/go-git/go-git/v5/plumbing/protocol/packp"
-	"github.com/go-git/go-git/v5/plumbing/transport"
+	"github.com/maskimko/go-git/v5/plumbing"
+	"github.com/maskimko/go-git/v5/plumbing/protocol/packp"
+	"github.com/maskimko/go-git/v5/plumbing/transport"
 
 	fixtures "github.com/go-git/go-git-fixtures/v4"
 	. "gopkg.in/check.v1"

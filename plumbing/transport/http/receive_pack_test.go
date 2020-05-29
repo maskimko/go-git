@@ -1,7 +1,7 @@
 package http
 
 import (
-	"github.com/go-git/go-git/v5/plumbing/transport/test"
+	"github.com/maskimko/go-git/v5/plumbing/transport/test"
 
 	. "gopkg.in/check.v1"
 	"github.com/go-git/go-git-fixtures/v4"

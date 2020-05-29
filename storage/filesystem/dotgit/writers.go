@@ -5,10 +5,10 @@ import (
 	"io"
 	"sync/atomic"
 
-	"github.com/go-git/go-git/v5/plumbing"
-	"github.com/go-git/go-git/v5/plumbing/format/idxfile"
-	"github.com/go-git/go-git/v5/plumbing/format/objfile"
-	"github.com/go-git/go-git/v5/plumbing/format/packfile"
+	"github.com/maskimko/go-git/v5/plumbing"
+	"github.com/maskimko/go-git/v5/plumbing/format/idxfile"
+	"github.com/maskimko/go-git/v5/plumbing/format/objfile"
+	"github.com/maskimko/go-git/v5/plumbing/format/packfile"
 
 	"github.com/go-git/go-billy/v5"
 )

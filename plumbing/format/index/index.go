@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/go-git/go-git/v5/plumbing"
-	"github.com/go-git/go-git/v5/plumbing/filemode"
+	"github.com/maskimko/go-git/v5/plumbing"
+	"github.com/maskimko/go-git/v5/plumbing/filemode"
 )
 
 var (

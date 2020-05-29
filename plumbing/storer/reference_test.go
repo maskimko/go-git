@@ -5,7 +5,7 @@ import (
 	"io"
 
 	. "gopkg.in/check.v1"
-	"github.com/go-git/go-git/v5/plumbing"
+	"github.com/maskimko/go-git/v5/plumbing"
 )
 
 type ReferenceSuite struct{}

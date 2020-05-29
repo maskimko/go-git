@@ -4,9 +4,9 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/go-git/go-git/v5/plumbing/cache"
-	"github.com/go-git/go-git/v5/plumbing/storer"
-	"github.com/go-git/go-git/v5/storage/test"
+	"github.com/maskimko/go-git/v5/plumbing/cache"
+	"github.com/maskimko/go-git/v5/plumbing/storer"
+	"github.com/maskimko/go-git/v5/storage/test"
 
 	"github.com/go-git/go-billy/v5/memfs"
 	"github.com/go-git/go-billy/v5/osfs"

@@ -6,10 +6,10 @@ import (
 	"testing"
 
 	. "gopkg.in/check.v1"
-	"github.com/go-git/go-git/v5/plumbing"
-	"github.com/go-git/go-git/v5/plumbing/format/index"
-	"github.com/go-git/go-git/v5/utils/merkletrie"
-	"github.com/go-git/go-git/v5/utils/merkletrie/noder"
+	"github.com/maskimko/go-git/v5/plumbing"
+	"github.com/maskimko/go-git/v5/plumbing/format/index"
+	"github.com/maskimko/go-git/v5/utils/merkletrie"
+	"github.com/maskimko/go-git/v5/utils/merkletrie/noder"
 )
 
 func Test(t *testing.T) { TestingT(t) }
